@@ -1,0 +1,20 @@
+languageCode = "en-us"
+title = "Kane & July"
+baseurl = "http://kanejuly.pw/"
+theme = "hugo-creative-portfolio-theme"
+googleAnalytics = "UA-91394118-1"
+
+[params]
+style = "default"
+copyright = "&copy;2017 Kane & July"
+sidebarAbout = [
+    "Built with love."
+]
+
+[[params.navlinks]]
+name = "Home"
+url = ""
+
+[[params.navlinks]]
+name = "About"
+url = "about/"
