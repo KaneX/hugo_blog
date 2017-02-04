@@ -1,7 +1,7 @@
 +++
 weight = 20
 showonlyimage = true
-image = "img/portfolio/june-2016-love.jpg"
+image = "img/portfolio/june-2016-love_thumb.jpg"
 draft = false
 date = "2017-01-13T04:33:34Z"
 title = "June 15, 2016"

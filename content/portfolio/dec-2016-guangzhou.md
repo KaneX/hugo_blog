@@ -3,7 +3,7 @@ weight = 30
 date = "2017-01-13T04:47:52Z"
 title = "December 2016"
 showonlyimage = true
-image = "img/portfolio/dec-2016-guangzhou.jpg"
+image = "img/portfolio/dec-2016-guangzhou_thumb.jpg"
 draft = false
 +++
 
