@@ -5,7 +5,7 @@ title = "将功赎罪小本本"
 +++
 
 ----
-### 能买就买
+#### 能买就买
 
 JEJxKERA 合作版穿靴子的猫size1或size2蓝色或黑色 JSK
 
@@ -40,7 +40,7 @@ Thinkfly 机械心蓝色S或M码一型 JSK
 ![Thinkfly机械心蓝色S或M码一型JSK](/img/lolita/dying_for/Thinkfly_machine_heart.JPG)
 
 ----
-### 半草不草
+#### 半草不草
 
 AP Chess Emblem 红白色SP版均码高腰 JSK
 
