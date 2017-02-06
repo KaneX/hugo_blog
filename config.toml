@@ -16,5 +16,9 @@ name = "Home"
 url = ""
 
 [[params.navlinks]]
+name = "将功赎罪小本本"
+url = "lolita/"
+
+[[params.navlinks]]
 name = "About"
 url = "about/"
