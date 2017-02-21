@@ -7,6 +7,10 @@ title = "将功赎罪小本本"
 ----
 #### 能买就买
 
+JEJ 月相size1 2500
+
+![JEJ 月相size1 2500](/img/lolita/dying_for/jej_moon_phase.jpg)
+
 JEJxKERA 合作版穿靴子的猫size1或size2蓝色或黑色 JSK 2200-2500
 
 ![JEJxKERA合作版穿靴子的猫size1或size2蓝色或黑色JSK](/img/lolita/dying_for/JEJxKERA_cat.jpg)
