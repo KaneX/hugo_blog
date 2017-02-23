@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Kane & July"
-baseurl = "http://kanejuly.pw/"
+baseurl = "https://kanejuly.pw"
 theme = "hugo-creative-portfolio-theme"
 googleAnalytics = ""
 
@@ -17,8 +17,8 @@ url = ""
 
 [[params.navlinks]]
 name = "将功赎罪小本本"
-url = "lolita/"
+url = "/lolita/"
 
 [[params.navlinks]]
 name = "About"
-url = "about/"
+url = "/about/"
