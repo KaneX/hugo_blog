@@ -46,25 +46,31 @@ Thinkfly 机械心蓝色S或M码一型 JSK 400
 ----
 #### 半草不草
 
+<!--
 AP Chess Emblem 红白色SP版均码高腰 JSK 2000
 
 ![AP Chess Emblem 红白色SP版均码高腰 JSK](/img/lolita/wishing/AP_Chess_Emblem.jpg)
+-->
 
 AP 罗塞特生成色均码 JSK 1800-2000
 
 ![AP罗塞特生成色均码JSK](/img/lolita/wishing/AP_rosette.jpg)
 
+<!--
 Baby 天使祝福酒红色均码 1600-2000
 
 ![Baby天使祝福酒红色均码](/img/lolita/wishing/Baby_angel.JPG)
+-->
 
 Baby 药箱均码墨绿色 2000-2400
 
 ![Baby 药箱均码墨绿色](/img/lolita/wishing/Baby_first_aid_green.jpg)
 
+<!--
 Baby 药箱均码粉色
 
 ![Baby药箱均码粉色](/img/lolita/wishing/Baby_first_aid_pink.jpg)
+-->
 
 Baby 药箱均码若草色
 

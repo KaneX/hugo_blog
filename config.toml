@@ -3,6 +3,7 @@ title = "Kane & July"
 baseurl = "https://kanejuly.pw"
 theme = "hugo-creative-portfolio-theme"
 googleAnalytics = ""
+disqusShortname = "kanejuly-pw"
 
 [params]
 style = "default"
