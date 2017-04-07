@@ -31,6 +31,7 @@ KL 凡尔赛粉色S或M码前开襟 JSK
 
 ![KL凡尔赛粉色S或M码前开襟JSK](/img/lolita/dying_for/KL_versailles_pink.JPG)
 
+<!--
 Lyreivy 洋装小黑屋m码 JSK 450-500
 
 ![Lyreivy洋装小黑屋m码jsk](/img/lolita/dying_for/Lyreivy_black_house.jpg)
@@ -38,6 +39,7 @@ Lyreivy 洋装小黑屋m码 JSK 450-500
 Marie A 气球旅行绀色S或M码 SK 200
 
 ![Marie_A气球旅行绀色S或M码SK](/img/lolita/dying_for/Marie_A_balloon.jpg)
+-->
 
 Thinkfly 机械心蓝色S或M码一型 JSK 400
 
